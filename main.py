@@ -1,7 +1,6 @@
 
 def part1():
   # for part 1
-  print("part 1")
   # Assign the value 42 (an integer) to a variable with the name n
 
   # Assign twice the value of the number π (the approximate value 3.14159 for π will     
@@ -15,7 +14,6 @@ def part1():
   
 def part2():
   #for part 2
-  print("part 2")
   # class = "CSD110"        
   # desired-grade = 100     
   # 2hot = "hothot"
