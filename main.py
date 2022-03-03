@@ -47,10 +47,11 @@ def part4():
   base2 = 3000 
   volume = 1/3 * base2*base2 * height 
   # I did base2*base2 since obviously the creator was implying it was base squared
-  print("Your pyramid with a Base of "+str(base2)+" and a height of "+str(height)+" had a volume of "+str(volume))
+  print("Your pyramid with a Base of "+str(base2)+"cm and a Height of "+str(height)+"cm and had a Volume of "+str(volume)+"cm3")
 
 
   
 # 1 and 2 arent needed since they do nothing for the output
 part3()
 part4()
+# line 25 is currently in def part4(): try typing somnething like print("4") under def part4():
